@@ -1,2 +1,15 @@
-# Fake-news-detection
-Machine Learning project for detecting fake news using Python
+# Fake News Detection
+
+This project detects whether news is fake or real using Machine Learning and NLP.
+
+## Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- TF-IDF
+- Logistic Regression
+
+## Features
+- Detect fake news
+- Machine learning model
+- NLP text processing
