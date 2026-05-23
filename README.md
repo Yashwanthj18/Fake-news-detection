@@ -13,3 +13,6 @@ This project detects whether news is fake or real using Machine Learning and NLP
 - Detect fake news
 - Machine learning model
 - NLP text processing
+
+##Autor
+Yashwanth.J
